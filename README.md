@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on something that gives me knowledge and create friendships
 - 📫 How to reach me:
    souza.victor@grad.ufsc.br
-   linkedin.com/in/victor-souza-5338601b8/
+   https://www.linkedin.com/in/victor-souza-5338601b8/
 
 <!---
 victorsouzw/victorsouzw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
