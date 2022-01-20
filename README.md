@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victorsouzw
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css and python
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on something that gives me knowledge and create friendships
 - 📫 How to reach me:
    souza.victor@grad.ufsc.br
